@@ -1,0 +1,23 @@
+# Python project gitignore
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git/
+.ipynb_checkpoints
+.idea/
+.vscode/
+# Note: db.sqlite3 is NOT ignored automatically in case you need it for the assignment submission. Feel free to ignore it if you prefer.
